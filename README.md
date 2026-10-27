@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Deltek is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.deltek.com/
+Deltek provides enterprise software solutions for project-driven work, offering platforms such as Deltek Vantagepoint, Costpoint, and GovWin. Their tools help organizations manage projects, resources, finances, and compliance, delivering speed, clarity, and control throughout the project lifecycle. The company serves government contractors, professional services firms, and other high‑stakes industries with integrated, purpose‑built applications.
+
+**Areas:** Company · Software · Enterprise · Project Management · Government
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.deltek.com/)
+- [Documentation](https://www.deltek.com/resources/)
+- [Getting started](https://www.deltek.com/company/news/deltek-takes-home-silver-brandon-hall-group-award-for-its-new-hire-onboarding-program/)
+- [Pricing](https://www.deltek.com/products/propricer/)
+- [Support](https://deltek.custhelp.com/)
+- [Blog](https://www.deltek.com/resources/articles/)
+- [Security](https://www.deltek.com/company/security-and-trust/security/)
+- [Trust centre](https://trust.deltek.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/deltek/](https://apis.io/providers/deltek/).
